@@ -1,1 +1,1 @@
-# QRkot_spreadseets
+# QRkot_spreadsheets
